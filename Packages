@@ -11,3 +11,4 @@ Section: libstatusbar
 Description: Lock Apps
 Author: UKRepo <ukrepo.com>
 Name: iAPPLock
+Depends: libstatusbar
