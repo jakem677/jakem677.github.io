@@ -1,0 +1,12 @@
+
+/* Class = "IBUINavigationItem"; title = "Add App"; ObjectID = "0Yx-zN-5KN"; */
+"0Yx-zN-5KN.title" = "添加應用";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "eDC-ez-iFf"; */
+"eDC-ez-iFf.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "App Lock"; ObjectID = "k4L-Eg-6xE"; */
+"k4L-Eg-6xE.title" = "應用鎖";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "tUW-o1-NqC"; */
+"tUW-o1-NqC.text" = "Label";

@@ -1,0 +1,36 @@
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "1fj-Cg-PrZ"; */
+"1fj-Cg-PrZ.placeholder" = "input AuthCode here";
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "9My-VO-kUN"; */
+"9My-VO-kUN.text" = "Send AuthMail";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "Een-qX-CDK"; */
+"Een-qX-CDK.text" = "Validate and Reset";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "CmD-Zk-FGa"; */
+"CmD-Zk-FGa.text" = "AuthCode";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "RaG-QY-lBa"; */
+"RaG-QY-lBa.normalTitle" = "Delete";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "TPP-Xk-VKZ"; */
+"TPP-Xk-VKZ.title" = "iAppLock";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Passcode."; ObjectID = "W6J-SX-qXr"; */
+"W6J-SX-qXr.footerTitle" = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Passcode.";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Passcode"; ObjectID = "YCm-2R-0nH"; */
+"YCm-2R-0nH.title" = "Retrieve Passcode";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "b0B-S4-rlu"; */
+"b0B-S4-rlu.text" = "auth@email.address";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "cLk-o3-bFl"; */
+"cLk-o3-bFl.normalTitle" = "Forgot?";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "mcC-0r-2wf"; */
+"mcC-0r-2wf.title" = "Forgot?";
+
+/* Class = "IBUILabel"; text = "Enter Passcode"; ObjectID = "o14-gh-Hay"; */
+"o14-gh-Hay.text" = "Enter Passcode";

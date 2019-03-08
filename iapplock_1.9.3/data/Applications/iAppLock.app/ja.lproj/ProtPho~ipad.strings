@@ -1,0 +1,15 @@
+
+/* Class = "IBUINavigationItem"; title = "Add App"; ObjectID = "DOW-A1-Siz"; */
+"DOW-A1-Siz.title" = "追加アプリ";
+
+/* Class = "IBUINavigationItem"; title = "App Lock"; ObjectID = "WZc-Vd-e5C"; */
+"WZc-Vd-e5C.title" = "アプリ保護";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "eNN-LS-o4F"; */
+"eNN-LS-o4F.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "App"; ObjectID = "gb8-M3-t48"; */
+"gb8-M3-t48.title" = "アプリ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "guo-SQ-Jx2"; */
+"guo-SQ-Jx2.text" = "Label";

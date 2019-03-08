@@ -1,0 +1,156 @@
+
+/* Class = "IBUITableViewSection"; footerTitle = "Once unlock any app successfully, no Passcode is required within the delay time."; ObjectID = "1QN-Y4-brM"; */
+"1QN-Y4-brM.footerTitle" = "Once unlock any app successfully, no Passcode is required within the delay time.";
+
+/* Class = "IBUILabel"; text = "Passcode"; ObjectID = "5du-FL-XPT"; */
+"5du-FL-XPT.text" = "Passcode";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Choose the Lock Screen"; ObjectID = "8bN-rT-Fds"; */
+"8bN-rT-Fds.headerTitle" = "Choose the Lock Screen";
+
+/* Class = "IBUILabel"; text = "You can reset your Passcode or Pattern through authentication email."; ObjectID = "9YT-Fv-myW"; */
+"9YT-Fv-myW.text" = "You can reset your Passcode or Pattern through authentication email.";
+
+/* Class = "IBUILabel"; text = "1 Minute"; ObjectID = "A8l-H2-kQq"; */
+"A8l-H2-kQq.text" = "1 Minute";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "AV2-RY-gMY"; */
+"AV2-RY-gMY.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Blur Background"; ObjectID = "C2L-GB-2hE"; */
+"C2L-GB-2hE.text" = "Blur Background";
+
+/* Class = "IBUILabel"; text = "Pattern Lock"; ObjectID = "DLN-yR-k69"; */
+"DLN-yR-k69.text" = "Pattern Lock";
+
+/* Class = "IBUILabel"; text = "Status Bar Icon"; ObjectID = "HCM-1b-YkE"; */
+"HCM-1b-YkE.text" = "Status Bar Icon";
+
+/* Class = "IBUILabel"; text = "Lock Pattern"; ObjectID = "HGE-2F-nXf"; */
+"HGE-2F-nXf.text" = "Lock Pattern";
+
+/* Class = "IBUINavigationItem"; title = "Lock Type"; ObjectID = "HKV-mU-HFa"; */
+"HKV-mU-HFa.title" = "Lock Type";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Security"; ObjectID = "JAi-WT-tS1"; */
+"JAi-WT-tS1.headerTitle" = "Security";
+
+/* Class = "IBUILabel"; text = "Custom Lock Screen"; ObjectID = "JDn-w1-HMx"; */
+"JDn-w1-HMx.text" = "Custom Lock Screen";
+
+/* Class = "IBUINavigationItem"; title = "Passcode Retrieve"; ObjectID = "LNj-dA-4bg"; */
+"LNj-dA-4bg.title" = "Passcode Retrieve";
+
+/* Class = "IBUILabel"; text = "Passcode Retrieve"; ObjectID = "Msw-1k-6gP"; */
+"Msw-1k-6gP.text" = "Passcode Retrieve";
+
+/* Class = "IBUILabel"; text = "20 Minutes"; ObjectID = "Odu-GA-LIv"; */
+"Odu-GA-LIv.text" = "20 Minutes";
+
+/* Class = "IBUILabel"; text = "Enable Delay Lock"; ObjectID = "Ojy-2v-Koh"; */
+"Ojy-2v-Koh.text" = "Enable Delay Lock";
+
+/* Class = "IBUILabel"; text = "Passcode Lock"; ObjectID = "Qbl-Mq-cGS"; */
+"Qbl-Mq-cGS.text" = "Passcode Lock";
+
+/* Class = "IBUILabel"; text = "Delay Lock"; ObjectID = "QxF-tV-vch"; */
+"QxF-tV-vch.text" = "Delay Lock";
+
+/* Class = "IBUITabBarItem"; title = "Setting"; ObjectID = "Rg4-HL-ddK"; */
+"Rg4-HL-ddK.title" = "Setting";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Preview"; ObjectID = "SQz-Ab-SzG"; */
+"SQz-Ab-SzG.headerTitle" = "Preview";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Basic"; ObjectID = "SzR-pn-sKY"; */
+"SzR-pn-sKY.headerTitle" = "Basic";
+
+/* Class = "IBUILabel"; text = "Add Current Wi-Fi"; ObjectID = "UDS-Nf-i7F"; */
+"UDS-Nf-i7F.text" = "Add Current Wi-Fi";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "Ved-kP-cW6"; */
+"Ved-kP-cW6.text" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "Trusted Wi-Fi"; ObjectID = "WSR-9X-9r6"; */
+"WSR-9X-9r6.title" = "Trusted Wi-Fi";
+
+/* Class = "IBUILabel"; text = "Lock Passcode"; ObjectID = "WZZ-rI-gbD"; */
+"WZZ-rI-gbD.text" = "Lock Passcode";
+
+/* Class = "IBUINavigationItem"; title = "Delay Lock"; ObjectID = "Xgj-k0-bz4"; */
+"Xgj-k0-bz4.title" = "Delay Lock";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Trusted Wi-Fi list"; ObjectID = "Xxc-GZ-PQx"; */
+"Xxc-GZ-PQx.headerTitle" = "Trusted Wi-Fi list";
+
+/* Class = "IBUILabel"; text = "Lock Screen"; ObjectID = "YNO-3b-Zmj"; */
+"YNO-3b-Zmj.text" = "Lock Screen";
+
+/* Class = "IBUILabel"; text = "No Lock on Trusted Wi-Fi"; ObjectID = "YSN-1h-LhF"; */
+"YSN-1h-LhF.text" = "No Lock on Trusted Wi-Fi";
+
+/* Class = "IBUILabel"; text = "Until Device Lock"; ObjectID = "Z1j-tl-S9g"; */
+"Z1j-tl-S9g.text" = "Until Device Lock";
+
+/* Class = "IBUILabel"; text = "Unlock with Touch ID"; ObjectID = "a7m-OJ-BNw"; */
+"a7m-OJ-BNw.text" = "Unlock with Touch ID";
+
+/* Class = "IBUILabel"; text = "Hide Apps' Snapshots"; ObjectID = "dWy-NO-IGv"; */
+"dWy-NO-IGv.text" = "Hide Apps' Snapshots";
+
+/* Class = "IBUILabel"; text = "Pattern Invisible"; ObjectID = "jMe-aa-p3E"; */
+"jMe-aa-p3E.text" = "Pattern Invisible";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "jpb-U1-1gG"; */
+"jpb-U1-1gG.title" = "Settings";
+
+/* Class = "IBUITableViewSection"; footerTitle = "When device connects to any Wi-Fi in the list, launching apps won't require a Passcode."; ObjectID = "kG4-y8-gd8"; */
+"kG4-y8-gd8.footerTitle" = "When device connects to any Wi-Fi in the list, launching apps won't require a Passcode.";
+
+/* Class = "IBUILabel"; text = "5 Minutes"; ObjectID = "klw-zo-vhC"; */
+"klw-zo-vhC.text" = "5 Minutes";
+
+/* Class = "IBUILabel"; text = "Lock Status"; ObjectID = "lNC-ct-g6F"; */
+"lNC-ct-g6F.text" = "Lock Status";
+
+/* Class = "IBUILabel"; text = "Trusted Wi-Fi"; ObjectID = "nWq-Zf-Tvb"; */
+"nWq-Zf-Tvb.text" = "Trusted Wi-Fi";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "nyR-vB-kQf"; */
+"nyR-vB-kQf.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "10 Minutes"; ObjectID = "o0w-9H-8Xl"; */
+"o0w-9H-8Xl.text" = "10 Minutes";
+
+/* Class = "IBUILabel"; text = "Vibration Feedback"; ObjectID = "qX4-L0-PKE"; */
+"qX4-L0-PKE.text" = "Vibration Feedback";
+
+/* Class = "IBUILabel"; text = "30 Minutes"; ObjectID = "sxL-vV-pzp"; */
+"sxL-vV-pzp.text" = "30 Minutes";
+
+/* Class = "IBUITextField"; placeholder = "Authentication Email"; ObjectID = "u78-w0-ZjV"; */
+"u78-w0-ZjV.placeholder" = "Authentication Email";
+
+/* Class = "IBUILabel"; text = "Random Passcode Dialpad"; ObjectID = "vT9-W2-pRU"; */
+"vT9-W2-pRU.text" = "Random Passcode Dialpad";
+
+/* Class = "IBUILabel"; text = "Choose From Photos"; ObjectID = "wVf-0K-exc"; */
+"wVf-0K-exc.text" = "Choose From Photos";
+
+/* Class = "IBUITableViewSection"; footerTitle = "After device lock, apps need to unlock again even within the delay time."; ObjectID = "wmY-Bx-oFA"; */
+"wmY-Bx-oFA.footerTitle" = "After device lock, apps need to unlock again even within the delay time.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Delay Time"; ObjectID = "wmY-Bx-oFA"; */
+"wmY-Bx-oFA.headerTitle" = "Delay Time";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "xxh-aY-f2w"; */
+"xxh-aY-f2w.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "yDt-YK-aC1"; */
+"yDt-YK-aC1.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Lock Type"; ObjectID = "yzb-wO-8sl"; */
+"yzb-wO-8sl.text" = "Lock Type";
+
+/* Class = "IBUINavigationItem"; title = "Lock Screen"; ObjectID = "z8C-7O-poD"; */
+"z8C-7O-poD.title" = "Lock Screen";

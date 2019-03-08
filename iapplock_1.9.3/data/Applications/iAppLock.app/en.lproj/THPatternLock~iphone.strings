@@ -1,0 +1,57 @@
+
+/* Class = "IBUILabel"; text = "Pattern is reset to below"; ObjectID = "0m7-TX-PvW"; */
+"0m7-TX-PvW.text" = "Pattern is reset to below";
+
+/* Class = "IBUILabel"; text = "Make sure to change the Pattern soon for your privacy security!"; ObjectID = "0yg-NC-ZxI"; */
+"0yg-NC-ZxI.text" = "Make sure to change the Pattern soon for your privacy security!";
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "21e-o9-QoG"; */
+"21e-o9-QoG.text" = "Send AuthMail";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "24g-LX-mPQ"; */
+"24g-LX-mPQ.normalTitle" = "Cancel";
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "2zN-NH-UFC"; */
+"2zN-NH-UFC.placeholder" = "input AuthCode here";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "Cib-Z5-AN9"; */
+"Cib-Z5-AN9.text" = "AuthCode";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Pattern."; ObjectID = "HEr-IJ-7Z2"; */
+"HEr-IJ-7Z2.footerTitle" = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Pattern.";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "HdT-ok-sAG"; */
+"HdT-ok-sAG.text" = "auth@email.address";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "LUo-JE-TT9"; */
+"LUo-JE-TT9.title" = "iAppLock";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "U25-7X-BES"; */
+"U25-7X-BES.title" = "Forgot?";
+
+/* Class = "IBUIButton"; normalTitle = "OK, I got it!"; ObjectID = "YCz-EG-Fk1"; */
+"YCz-EG-Fk1.normalTitle" = "OK, I got it!";
+
+/* Class = "IBUIButton"; normalTitle = "OK, I got it!"; ObjectID = "YTC-7c-Rt3"; */
+"YTC-7c-Rt3.normalTitle" = "OK, I got it!";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "YtH-he-rME"; */
+"YtH-he-rME.normalTitle" = "Cancel";
+
+/* Class = "IBUINavigationItem"; title = "Pattern Reset"; ObjectID = "cyK-1y-H1o"; */
+"cyK-1y-H1o.title" = "Pattern Reset";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "dw1-VC-s9x"; */
+"dw1-VC-s9x.normalTitle" = "Forgot?";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "gWh-Ud-XFw"; */
+"gWh-Ud-XFw.text" = "Validate and Reset";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Pattern"; ObjectID = "haE-bR-SpP"; */
+"haE-bR-SpP.title" = "Retrieve Pattern";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "lBv-Au-igv"; */
+"lBv-Au-igv.normalTitle" = "Forgot?";
+
+/* Class = "IBUILabel"; text = "Draw Pattern to Unlock"; ObjectID = "xSO-PI-1fp"; */
+"xSO-PI-1fp.text" = "Draw Pattern to Unlock";

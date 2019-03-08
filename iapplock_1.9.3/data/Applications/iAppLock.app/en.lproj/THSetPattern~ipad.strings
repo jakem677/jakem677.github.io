@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "Draw Pattern"; ObjectID = "3dK-3o-B6d"; */
+"3dK-3o-B6d.text" = "Draw Pattern";
+
+/* Class = "IBUIButton"; normalTitle = "Redraw New Pattern"; ObjectID = "NHU-gu-TIy"; */
+"NHU-gu-TIy.normalTitle" = "Redraw New Pattern";
+
+/* Class = "IBUINavigationItem"; title = "Set Pattern"; ObjectID = "ybw-4X-1PD"; */
+"ybw-4X-1PD.title" = "Set Pattern";

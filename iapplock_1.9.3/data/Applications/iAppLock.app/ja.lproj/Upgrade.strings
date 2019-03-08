@@ -1,0 +1,99 @@
+
+/* Class = "IBUILabel"; text = "Sign In"; ObjectID = "2PW-jv-AUA"; */
+"2PW-jv-AUA.text" = "登録";
+
+/* Class = "IBUILabel"; text = "★ Random Passcode Dialpad"; ObjectID = "4Wk-qM-Job"; */
+"4Wk-qM-Job.text" = "★ ランダムパスコードダイヤルパッド";
+
+/* Class = "IBUILabel"; text = "★ Make Lock Pattern Invisible"; ObjectID = "6he-D7-lok"; */
+"6he-D7-lok.text" = "★ パターンを見えないようにする";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please select a reason why you do not finish upgrade to help us to improve iAppLock."; ObjectID = "7KA-KT-mOs"; */
+"7KA-KT-mOs.footerTitle" = "なぜエスカレートを完成しないのかを選んでください。私達にアドバイスを提供し、私達のレベルアップに協力して下さい。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Feedback for Upgrade"; ObjectID = "7KA-KT-mOs"; */
+"7KA-KT-mOs.headerTitle" = "エスカレートアドバイス";
+
+/* Class = "IBUILabel"; text = "License Status"; ObjectID = "8gX-q2-hMZ"; */
+"8gX-q2-hMZ.text" = "許可状態";
+
+/* Class = "IBUITableViewSection"; footerTitle = "If you have purchased before, sign in that account to restore license."; ObjectID = "9xh-Es-2xL"; */
+"9xh-Es-2xL.footerTitle" = "貴方は既に専門バージョン購入済であれば、当時のアカウント登録で許可を回復して下さい。";
+
+/* Class = "IBUILabel"; text = "Sign in With Facebook"; ObjectID = "AEa-ch-wrW"; */
+"AEa-ch-wrW.text" = "Facebook で登録する";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "AVI-Dy-pSZ"; */
+"AVI-Dy-pSZ.text" = "細部";
+
+/* Class = "IBUILabel"; text = "Sign in With QQ"; ObjectID = "CyF-Eu-pnD"; */
+"CyF-Eu-pnD.text" = "QQ で登録する";
+
+/* Class = "IBUILabel"; text = "Purchase with Alipay"; ObjectID = "HAJ-OS-GnP"; */
+"HAJ-OS-GnP.text" = "Alipay で購入する";
+
+/* Class = "IBUINavigationItem"; title = "Purchase"; ObjectID = "HQS-pv-kC9"; */
+"HQS-pv-kC9.title" = "購入";
+
+/* Class = "IBUINavigationItem"; title = "Sign In"; ObjectID = "ItN-Ch-xUR"; */
+"ItN-Ch-xUR.title" = "登録";
+
+/* Class = "IBUILabel"; text = "Purchased"; ObjectID = "MUC-XR-uBZ"; */
+"MUC-XR-uBZ.text" = "購入済";
+
+/* Class = "IBUILabel"; text = "Sign in With Google"; ObjectID = "QnM-Ud-CnL"; */
+"QnM-Ud-CnL.text" = "Google で登録する";
+
+/* Class = "IBUINavigationItem"; title = "Survey"; ObjectID = "SxS-WN-Lzp"; */
+"SxS-WN-Lzp.title" = "アンケート";
+
+/* Class = "IBUINavigationItem"; title = "Sign In"; ObjectID = "TbL-ey-xYU"; */
+"TbL-ey-xYU.title" = "登録";
+
+/* Class = "IBUILabel"; text = "Price"; ObjectID = "VdK-N9-S4f"; */
+"VdK-N9-S4f.text" = "価格";
+
+/* Class = "IBUILabel"; text = "Send"; ObjectID = "XdF-cu-Fo2"; */
+"XdF-cu-Fo2.text" = "発送";
+
+/* Class = "IBUILabel"; text = "★ Unlimited Lock Apps"; ObjectID = "Zvt-xC-0w6"; */
+"Zvt-xC-0w6.text" = "★ ロック数量制限なし";
+
+/* Class = "IBUILabel"; text = "Purchase with Card"; ObjectID = "bQA-XW-cBw"; */
+"bQA-XW-cBw.text" = "クレジットカードで購入";
+
+/* Class = "IBUITableViewSection"; headerTitle = "My Account"; ObjectID = "fFN-WK-16M"; */
+"fFN-WK-16M.headerTitle" = "私のアカウント";
+
+/* Class = "IBUILabel"; text = "email"; ObjectID = "fgX-VH-c4u"; */
+"fgX-VH-c4u.text" = "電子メール";
+
+/* Class = "IBUILabel"; text = "★ Unlimited Trusted Wi-Fi"; ObjectID = "fkJ-pE-L0r"; */
+"fkJ-pE-L0r.text" = "★ 信頼の受ける Wi-Fi 数量は制限なし";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Other Comments"; ObjectID = "h6q-8I-d9x"; */
+"h6q-8I-d9x.headerTitle" = "その他アドバイス";
+
+/* Class = "IBUINavigationItem"; title = "Upgrade "; ObjectID = "jva-Wq-J1A"; */
+"jva-Wq-J1A.title" = "専門バージョンにエスカレートする";
+
+/* Class = "IBUILabel"; text = "Purchase with PayPal"; ObjectID = "m8o-jN-lZc"; */
+"m8o-jN-lZc.text" = "PayPal で購入する";
+
+/* Class = "IBUILabel"; text = "★ Other Coming Features"; ObjectID = "n7Y-bf-afJ"; */
+"n7Y-bf-afJ.text" = "★ 間も無く発布するその他機能";
+
+/* Class = "IBUILabel"; text = "Visa, MasterCard or AMEX"; ObjectID = "pYo-2I-WrR"; */
+"pYo-2I-WrR.text" = "Visa, MasterCard or AMEX";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Your purchase is tied to your signed-in account. If you later restore your device or change to a new device, you do not need to purchase again."; ObjectID = "sGo-eO-28P"; */
+"sGo-eO-28P.footerTitle" = "貴方が購入した専門バージョン許可は貴方が登録したアカウントに同梱したもの。貴方は設備をリセットする、又は新しい設備に交換する場合、あらためて購入する必要がない。";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "sWs-wO-RUU"; */
+"sWs-wO-RUU.text" = "名前";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Pro Features"; ObjectID = "t6W-1a-vBE"; */
+"t6W-1a-vBE.headerTitle" = "専門バージョン機能";
+
+/* Class = "IBUILabel"; text = "Survey Item"; ObjectID = "tGs-a5-b2Y"; */
+"tGs-a5-b2Y.text" = "アンケート条目";

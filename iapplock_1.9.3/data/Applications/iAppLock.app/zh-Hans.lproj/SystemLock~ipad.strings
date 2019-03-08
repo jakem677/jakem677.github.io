@@ -1,0 +1,27 @@
+
+/* Class = "IBUITableViewSection"; headerTitle = "COMING SOON"; ObjectID = "JUj-ac-nuP"; */
+"JUj-ac-nuP.headerTitle" = "即将推出";
+
+/* Class = "IBUINavigationItem"; title = "System Lock"; ObjectID = "OXx-iY-cKM"; */
+"OXx-iY-cKM.title" = "系统锁";
+
+/* Class = "IBUILabel"; text = "Bluetooth Toggle"; ObjectID = "ZU9-aQ-RRR"; */
+"ZU9-aQ-RRR.text" = "蓝牙开关";
+
+/* Class = "IBUILabel"; text = "Move App Icons"; ObjectID = "fUU-hB-851"; */
+"fUU-hB-851.text" = "移动应用图标";
+
+/* Class = "IBUITabBarItem"; title = "System"; ObjectID = "hvG-dO-58b"; */
+"hvG-dO-58b.title" = "系统";
+
+/* Class = "IBUILabel"; text = "Open Folders"; ObjectID = "iUL-Y0-1NT"; */
+"iUL-Y0-1NT.text" = "打开文件夹";
+
+/* Class = "IBUILabel"; text = "Wi-Fi Toggle"; ObjectID = "irg-OV-p7h"; */
+"irg-OV-p7h.text" = "Wi-Fi 开关";
+
+/* Class = "IBUILabel"; text = "App Uninstall"; ObjectID = "tgU-br-qDB"; */
+"tgU-br-qDB.text" = "应用卸载";
+
+/* Class = "IBUILabel"; text = "Cellular Data Toggle"; ObjectID = "zHZ-Te-5PV"; */
+"zHZ-Te-5PV.text" = "蜂窝移动数据开关";

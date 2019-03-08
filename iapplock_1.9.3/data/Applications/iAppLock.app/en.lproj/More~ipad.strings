@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "Follow Us"; ObjectID = "0hZ-Sp-fOD"; */
+"0hZ-Sp-fOD.text" = "Follow Us";
+
+/* Class = "IBUILabel"; text = "iAppLock"; ObjectID = "45N-gv-45h"; */
+"45N-gv-45h.text" = "iAppLock";
+
+/* Class = "IBUILabel"; text = "Share"; ObjectID = "6Nf-fl-oPA"; */
+"6Nf-fl-oPA.text" = "Share";
+
+/* Class = "IBUILabel"; text = "© 2014-2015 ThinkYeah. All Rights Reserved"; ObjectID = "BQN-vg-uJV"; */
+"BQN-vg-uJV.text" = "© 2014-2015 ThinkYeah. All Rights Reserved";
+
+/* Class = "IBUILabel"; text = "Mail Us"; ObjectID = "KLh-10-gqf"; */
+"KLh-10-gqf.text" = "Mail Us";
+
+/* Class = "IBUINavigationItem"; title = "More"; ObjectID = "Zpz-yx-AB0"; */
+"Zpz-yx-AB0.title" = "More";
+
+/* Class = "IBUILabel"; text = "About"; ObjectID = "agj-Wf-K0P"; */
+"agj-Wf-K0P.text" = "About";
+
+/* Class = "IBUINavigationItem"; title = "Help"; ObjectID = "boo-pk-IIQ"; */
+"boo-pk-IIQ.title" = "Help";
+
+/* Class = "IBUINavigationItem"; title = "About"; ObjectID = "dSt-CO-I4i"; */
+"dSt-CO-I4i.title" = "About";
+
+/* Class = "IBUILabel"; text = "Upgrade to Pro"; ObjectID = "eb4-gx-y9N"; */
+"eb4-gx-y9N.text" = "Upgrade to Pro";
+
+/* Class = "IBUILabel"; text = "Version: 9.9.9"; ObjectID = "gIJ-p8-QG2"; */
+"gIJ-p8-QG2.text" = "Version: 9.9.9";
+
+/* Class = "IBUILabel"; text = "Feedback"; ObjectID = "keJ-E7-69l"; */
+"keJ-E7-69l.text" = "Feedback";
+
+/* Class = "IBUILabel"; text = "iAppLock.ThinkYeah.com"; ObjectID = "rd2-pU-2Vb"; */
+"rd2-pU-2Vb.text" = "iAppLock.ThinkYeah.com";
+
+/* Class = "IBUITabBarItem"; title = "More"; ObjectID = "rfl-Bu-qOu"; */
+"rfl-Bu-qOu.title" = "More";
+
+/* Class = "IBUILabel"; text = "Check New Version"; ObjectID = "ybz-yv-wJn"; */
+"ybz-yv-wJn.text" = "Check New Version";

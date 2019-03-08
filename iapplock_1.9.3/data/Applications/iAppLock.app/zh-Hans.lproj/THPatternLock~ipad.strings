@@ -1,0 +1,57 @@
+
+/* Class = "IBUILabel"; text = "Pattern is reset to below"; ObjectID = "0m7-TX-PvW"; */
+"0m7-TX-PvW.text" = "解锁图案已经重置成如下图案";
+
+/* Class = "IBUILabel"; text = "Make sure to change the Pattern soon for your privacy security!"; ObjectID = "0yg-NC-ZxI"; */
+"0yg-NC-ZxI.text" = "为了您的隐私安全，请尽快更改解锁图案！";
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "21e-o9-QoG"; */
+"21e-o9-QoG.text" = "发送授权邮件";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "24g-LX-mPQ"; */
+"24g-LX-mPQ.normalTitle" = "取消";
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "2zN-NH-UFC"; */
+"2zN-NH-UFC.placeholder" = "在此输入授权码";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "Cib-Z5-AN9"; */
+"Cib-Z5-AN9.text" = "授权码";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Pattern."; ObjectID = "HEr-IJ-7Z2"; */
+"HEr-IJ-7Z2.footerTitle" = "请输入授权邮件中的授权码来重置解锁图案。";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "HdT-ok-sAG"; */
+"HdT-ok-sAG.text" = "auth@email.address";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "LUo-JE-TT9"; */
+"LUo-JE-TT9.title" = "应用锁";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "U25-7X-BES"; */
+"U25-7X-BES.title" = "忘了?";
+
+/* Class = "IBUIButton"; normalTitle = "OK, I got it!"; ObjectID = "YCz-EG-Fk1"; */
+"YCz-EG-Fk1.normalTitle" = "好的，我知道了";
+
+/* Class = "IBUIButton"; normalTitle = "OK, I got it!"; ObjectID = "YTC-7c-Rt3"; */
+"YTC-7c-Rt3.normalTitle" = "好的，我知道了！";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "YtH-he-rME"; */
+"YtH-he-rME.normalTitle" = "取消";
+
+/* Class = "IBUINavigationItem"; title = "Pattern Reset"; ObjectID = "cyK-1y-H1o"; */
+"cyK-1y-H1o.title" = "图案已重置";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "dw1-VC-s9x"; */
+"dw1-VC-s9x.normalTitle" = "忘了?";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "gWh-Ud-XFw"; */
+"gWh-Ud-XFw.text" = "验证并重置";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Pattern"; ObjectID = "haE-bR-SpP"; */
+"haE-bR-SpP.title" = "找回解锁图案";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "lBv-Au-igv"; */
+"lBv-Au-igv.normalTitle" = "忘了?";
+
+/* Class = "IBUILabel"; text = "Draw Pattern to Unlock"; ObjectID = "xSO-PI-1fp"; */
+"xSO-PI-1fp.text" = "绘制图案以解锁";

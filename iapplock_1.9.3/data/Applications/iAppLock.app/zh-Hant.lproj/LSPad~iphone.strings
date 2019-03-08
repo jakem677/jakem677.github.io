@@ -1,0 +1,36 @@
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "8U1-Di-ND1"; */
+"8U1-Di-ND1.text" = "發送授權郵件";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "G7b-YT-SZ5"; */
+"G7b-YT-SZ5.normalTitle" = "忘了?";
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "M1V-Qt-rtL"; */
+"M1V-Qt-rtL.placeholder" = "在此輸入授權碼";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Passcode."; ObjectID = "NGS-ZS-D6J"; */
+"NGS-ZS-D6J.footerTitle" = "請輸入授權郵件中的授權碼來重置密碼。";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "RMn-rI-ko1"; */
+"RMn-rI-ko1.text" = "auth@email.address";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "b3f-dc-g0u"; */
+"b3f-dc-g0u.text" = "驗證并重置";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "hoc-34-7dX"; */
+"hoc-34-7dX.text" = "授權碼";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "mQ3-F9-iqe"; */
+"mQ3-F9-iqe.title" = "應用鎖";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Passcode"; ObjectID = "n9X-Hm-SpF"; */
+"n9X-Hm-SpF.title" = "找回密碼";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "nZX-p9-Ux3"; */
+"nZX-p9-Ux3.title" = "忘了?";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "wEG-yA-i8B"; */
+"wEG-yA-i8B.normalTitle" = "刪除";
+
+/* Class = "IBUILabel"; text = "Enter Passcode"; ObjectID = "wIs-MN-LbI"; */
+"wIs-MN-LbI.text" = "輸入密碼";

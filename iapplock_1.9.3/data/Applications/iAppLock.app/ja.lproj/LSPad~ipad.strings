@@ -1,0 +1,36 @@
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "8U1-Di-ND1"; */
+"8U1-Di-ND1.text" = "授権メールを送信する";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "G7b-YT-SZ5"; */
+"G7b-YT-SZ5.normalTitle" = "忘れたか?";
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "M1V-Qt-rtL"; */
+"M1V-Qt-rtL.placeholder" = "ここに授権コードを入力";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Passcode."; ObjectID = "NGS-ZS-D6J"; */
+"NGS-ZS-D6J.footerTitle" = "授権メールにある授権コードを入力し、パスワードをリセットして下さい。";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "RMn-rI-ko1"; */
+"RMn-rI-ko1.text" = "auth@email.address";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "b3f-dc-g0u"; */
+"b3f-dc-g0u.text" = "検証の上、リセットする";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "hoc-34-7dX"; */
+"hoc-34-7dX.text" = "授権コード";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "mQ3-F9-iqe"; */
+"mQ3-F9-iqe.title" = "アプリロック";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Passcode"; ObjectID = "n9X-Hm-SpF"; */
+"n9X-Hm-SpF.title" = "パスワードを探し戻す";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "nZX-p9-Ux3"; */
+"nZX-p9-Ux3.title" = "忘れたか?";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "wEG-yA-i8B"; */
+"wEG-yA-i8B.normalTitle" = "削除";
+
+/* Class = "IBUILabel"; text = "Enter Passcode"; ObjectID = "wIs-MN-LbI"; */
+"wIs-MN-LbI.text" = "パスワードを入力する";

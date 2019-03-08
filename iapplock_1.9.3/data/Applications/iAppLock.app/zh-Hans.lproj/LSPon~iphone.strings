@@ -1,0 +1,36 @@
+
+/* Class = "IBUITextField"; placeholder = "input AuthCode here"; ObjectID = "1fj-Cg-PrZ"; */
+"1fj-Cg-PrZ.placeholder" = "在此输入授权码";
+
+/* Class = "IBUILabel"; text = "Send AuthMail"; ObjectID = "9My-VO-kUN"; */
+"9My-VO-kUN.text" = "发送授权邮件";
+
+/* Class = "IBUILabel"; text = "Validate and Reset"; ObjectID = "Een-qX-CDK"; */
+"Een-qX-CDK.text" = "验证并重置";
+
+/* Class = "IBUILabel"; text = "AuthCode"; ObjectID = "CmD-Zk-FGa"; */
+"CmD-Zk-FGa.text" = "授权码";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "RaG-QY-lBa"; */
+"RaG-QY-lBa.normalTitle" = "删除";
+
+/* Class = "IBUINavigationItem"; title = "iAppLock"; ObjectID = "TPP-Xk-VKZ"; */
+"TPP-Xk-VKZ.title" = "应用锁";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Please enter the AuthCode in the mail we send to your authentication email address to reset the Passcode."; ObjectID = "W6J-SX-qXr"; */
+"W6J-SX-qXr.footerTitle" = "请输入授权邮件中的授权码来重置密码。";
+
+/* Class = "IBUINavigationItem"; title = "Retrieve Passcode"; ObjectID = "YCm-2R-0nH"; */
+"YCm-2R-0nH.title" = "找回密码";
+
+/* Class = "IBUILabel"; text = "auth@email.address"; ObjectID = "b0B-S4-rlu"; */
+"b0B-S4-rlu.text" = "auth@email.address";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot?"; ObjectID = "cLk-o3-bFl"; */
+"cLk-o3-bFl.normalTitle" = "忘了?";
+
+/* Class = "IBUIBarButtonItem"; title = "Forgot?"; ObjectID = "mcC-0r-2wf"; */
+"mcC-0r-2wf.title" = "忘了?";
+
+/* Class = "IBUILabel"; text = "Enter Passcode"; ObjectID = "o14-gh-Hay"; */
+"o14-gh-Hay.text" = "输入密码";

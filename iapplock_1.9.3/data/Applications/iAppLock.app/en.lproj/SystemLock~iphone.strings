@@ -1,0 +1,27 @@
+
+/* Class = "IBUITableViewSection"; headerTitle = "COMING SOON"; ObjectID = "JUj-ac-nuP"; */
+"JUj-ac-nuP.headerTitle" = "COMING SOON";
+
+/* Class = "IBUINavigationItem"; title = "System Lock"; ObjectID = "OXx-iY-cKM"; */
+"OXx-iY-cKM.title" = "System Lock";
+
+/* Class = "IBUILabel"; text = "Bluetooth Toggle"; ObjectID = "ZU9-aQ-RRR"; */
+"ZU9-aQ-RRR.text" = "Bluetooth Toggle";
+
+/* Class = "IBUILabel"; text = "Move App Icons"; ObjectID = "fUU-hB-851"; */
+"fUU-hB-851.text" = "Move App Icons";
+
+/* Class = "IBUITabBarItem"; title = "System"; ObjectID = "hvG-dO-58b"; */
+"hvG-dO-58b.title" = "System";
+
+/* Class = "IBUILabel"; text = "Open Folders"; ObjectID = "iUL-Y0-1NT"; */
+"iUL-Y0-1NT.text" = "Open Folders";
+
+/* Class = "IBUILabel"; text = "Wi-Fi Toggle"; ObjectID = "irg-OV-p7h"; */
+"irg-OV-p7h.text" = "Wi-Fi Toggle";
+
+/* Class = "IBUILabel"; text = "App Uninstall"; ObjectID = "tgU-br-qDB"; */
+"tgU-br-qDB.text" = "App Uninstall";
+
+/* Class = "IBUILabel"; text = "Cellular Data Toggle"; ObjectID = "zHZ-Te-5PV"; */
+"zHZ-Te-5PV.text" = "Cellular Data Toggle";
