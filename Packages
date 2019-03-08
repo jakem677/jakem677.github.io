@@ -1,0 +1,13 @@
+Package: com.ukrepo.iAPPLock
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: Jake <jakemac12@icloud.com)>
+Filename: debs//iapplock_1.9.3.deb
+Size: 4835534
+MD5sum: 05328b0aef92c52297fa07fbb56af513
+SHA1: 41dcbffa993d3dbb09f838222aa909c58a1b4a0a
+SHA256: b0efc38b119166303d93ed8ebb96117cd0b7fee4a9fc50af570aafc05f2437a8
+Section: Tweaks
+Description: Lock Apps
+Author: UKRepo <ukrepo.com>
+Name: iAPPLock
